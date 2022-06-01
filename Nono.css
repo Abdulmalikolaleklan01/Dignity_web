@@ -1,0 +1,27 @@
+[class="carousel-caption"]{
+    margin: auto;
+}
+.p1{
+    width: 100%;
+    max-height: 700px;
+}
+.caption{
+    width: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 38%;
+    z-index: 1;
+    color: white;
+    text-transform: uppercase;
+}
+.row{
+    margin-top: 5rem;
+}
+img{
+    transition: .5 ease-in-out;
+    
+}
+img:hover{
+    opacity: .7;
+
+}
